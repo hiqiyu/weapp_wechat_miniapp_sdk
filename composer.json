@@ -11,7 +11,7 @@
   ],
   "require": {
     "php": "^5.5.9 || ^8.4",
-    "jiaweixs/simplecache": "*"
+    "hiqiyu/simplecache": "*"
   },
 
   "autoload": {
