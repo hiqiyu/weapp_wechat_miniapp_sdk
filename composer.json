@@ -9,8 +9,7 @@
       "email": "kurobafear@hotmail.com"
     }
   ],
-  "require": {
-    "php": "^5.5.9 || ^8.0",
+  "require": {   
     "hiqiyu/simplecache": "*"
   },
 
